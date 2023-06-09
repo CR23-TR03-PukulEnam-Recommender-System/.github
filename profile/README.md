@@ -27,9 +27,8 @@ The Team Formation Recommender System aims to automate the team formation proces
 ### Cloud Computing API
 [Backend and API](https://github.com/CR23-TR03-PukulEnam-Recommender-System/API). Repositories of backend using Flask and Node.Js Framework
 
-## Our Team
-
-### New Jeans Team
+## Meet Our Team, Newjeans~
+Our team is divided into two divisions: the Machine Learning team and the Cloud Computing team. The Machine Learning team focuses on model development, fine-tuning, dummy data generation, and data preprocessing. Meanwhile, the Cloud Computing team specializes in creating full-stack websites, connect it to the server.
 
 ### Machine Learning Team
 | Bangkit ID | Name | Social Media |
