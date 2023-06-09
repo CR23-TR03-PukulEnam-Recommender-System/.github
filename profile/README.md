@@ -1,6 +1,4 @@
-# RecommenderSystemPukulEnam
-
-
+# Automatic Team Formation System
 
 ## Project Description
 
