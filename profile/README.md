@@ -18,3 +18,22 @@ The Team Formation Recommender System aims to automate the team formation proces
 1. Automated Team Formation: The system streamlines the team formation process by leveraging information from past projects, individual skill sets, and availability. This automation reduces the burden on project managers and saves time and effort.
 2. Fit Estimation: The recommender system provides an estimate of how well each individual aligns with the client's requirements based on their skill sets. This assessment assists project managers in identifying the most suitable team members for a specific project.
 3. Real-Time Availability Updates: The system enables project managers to easily update the availability status of each individual. As projects are taken or completed, the availability information can be promptly modified, facilitating efficient communication and coordination.
+
+
+## Our Team
+
+### INTRODUCIIIING NEWJEANS TEAM!!!
+
+### Machine Learning Team
+| Bangkit ID | Name | Social Media |
+|:----------:|:----:|--------------|
+|M181DSX0154 |Zidan Raleto Seno|[LinkedIn](https://www.linkedin.com/in/zidanseno)|
+|M092DSX0548 |Daffa Khalish Hardy Putra|[LinkedIn](https://www.linkedin.com/in/daffakhalishhp)|
+
+### Cloud Computing Team
+| Bangkit ID | Name | Social Media |
+|:----------:|:----:|--------------|
+|C172DSX3513 |Fadri Oktavian|[LinkedIn](https://www.linkedin.com/in/zidanseno)|
+|C172DKX4342 |Tri Guntoro|[LinkedIn](https://www.linkedin.com/in/tri-guntoro-41676222a)|
+
+
