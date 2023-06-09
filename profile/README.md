@@ -1,5 +1,7 @@
 # Automatic Team Formation System
 
+![Automatic Team Formation System](https://github.com/CR23-TR03-PukulEnam-Recommender-System/.github/assets/72967822/bdb60415-3e87-40e5-9122-3d9ca2355adb)
+
 ## Project Description
 
 Team formation for projects often requires significant time and effort from project managers. Various factors such as interpersonal relationships, individual capabilities, and current availability of team members need to be considered. PukulEnam, an AI consulting services company, also faces these challenges in their project management process. The team formation process involves checking individual availability, reviewing past project experiences, and ensuring a good fit for the client's needs.
