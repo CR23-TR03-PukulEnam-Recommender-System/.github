@@ -44,4 +44,4 @@ Our team is divided into two divisions: the Machine Learning team and the Cloud 
 |C172DSX3513 |Fadri Oktavian|[LinkedIn](https://www.linkedin.com/in/zidanseno)|
 |C172DKX4342 |Tri Guntoro|[LinkedIn](https://www.linkedin.com/in/tri-guntoro-41676222a)|
 
-
+UPDATE : WE WIN THE BEST TEAM FROM PUKULENAM, THANKS EVERYONE!!!!
